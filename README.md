@@ -21,6 +21,8 @@ See something you think belongs here? Feel free to fork and send a PR!
 ### Community
 - [The Nim Discord channel](https://discord.gg/ptW3Rb3) - the #webdev channel the place to go for help
 - [The Nim forum](http://forum.nim-lang.org/)
+### Libraries
+- [html2karax](https://github.com/nim-lang-cn/html2karax) - Converts static html to Karax in Nim
 ### Examples
 - [Karax's Examples](https://github.com/karaxnim/karax/tree/master/examples) - examples that are a part of the Karax repository itself
 - [Simple Twitter](https://github.com/ajusa/simple-twitter) - a simple example of using Karax with Jester for a CRUD app
