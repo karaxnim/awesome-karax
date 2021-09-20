@@ -23,6 +23,7 @@ See something you think belongs here? Feel free to fork and send a PR!
 - [The Nim forum](http://forum.nim-lang.org/)
 ### Libraries
 - [html2karax](https://github.com/nim-lang-cn/html2karax) - Converts static html to Karax in Nim
+- [faster-than-csv](https://github.com/juancarlospaco/faster-than-csv#csv2karax) - Convert CSV to Karax table
 ### Examples
 - [Karax's Examples](https://github.com/karaxnim/karax/tree/master/examples) - examples that are a part of the Karax repository itself
 - [Simple Twitter](https://github.com/ajusa/simple-twitter) - a simple example of using Karax with Jester for a CRUD app
