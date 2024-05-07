@@ -29,3 +29,4 @@ See something you think belongs here? Feel free to fork and send a PR!
 - [Simple Twitter](https://github.com/ajusa/simple-twitter) - a simple example of using Karax with Jester for a CRUD app
 - [World Clock](https://github.com/ilmanzo/karax_clock) - a stateful component example
 - [Step By Step UPC-A Barcode Generator](https://github.com/CEShahed/linear-barcode/)
+- [A* BFS DFS visualizer](https://github.com/hamidb80/maze-vis)
